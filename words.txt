@@ -1,0 +1,11 @@
+dog
+cat
+mouse
+bird
+frog
+snake
+parrot
+elephant
+iguana
+lizard
+turtle
